@@ -1,0 +1,4 @@
+Id,SiteId,CompetitionGroupId,ShortName,Name,GenderOptions,InitialAge,FinalAge,Note,IsActive,InsertDate,LastUpdateDate
+1,FPT,5,"CLS MASC A","Masculino A",M,11,99,NULL,1,"2016-02-02 13:01:16",NULL
+2,FPT,3,"INF FEM",Feminino,F,6,18,NULL,1,"2016-02-04 16:07:03",NULL
+3,FPT,3,"INF FEM 2","Feminino 2",F,6,18,NULL,1,"2016-02-04 16:47:40",NULL

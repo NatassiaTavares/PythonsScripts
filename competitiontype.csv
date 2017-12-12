@@ -1,0 +1,5 @@
+Id,SiteId,ShortName,Name,Note,IsActive,InsertDate,LastUpdateDate
+1,FPT,NAC,Nacional,"Usar somente para torneios nacionais (CBT)",1,"2015-11-05 15:59:18",NULL
+8,FPT,EST,Estadual,"Eventos e torneios estaduais promovidos pela própria FPT",1,"2015-11-06 16:32:31",NULL
+9,FPT,MUN,Municipal,"Circuito Municipal e etc",1,"2015-11-06 16:34:09",NULL
+10,FPT,INT,Internacional,"Usar somente para torneios internacionais (COSAT, ITF ou ATP)",1,"2015-11-06 23:01:16",NULL
